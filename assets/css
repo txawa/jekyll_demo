@@ -1,0 +1,39 @@
+body {
+    background: url('https://i.postimg.cc/prc6tRYD/11-sc-mkv20241006-132551.png') no-repeat center center fixed; /* 使用图像的直接链接 */
+    background-size: cover;
+    color: #333; /* 文字颜色 */
+    font-family: 'Arial', sans-serif; /* 使用合适的字体 */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.8); /* 半透明背景 */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #007BFF; /* 链接颜色 */
+}
+
+h1, h2, h3 {
+    color: #4A4A4A; /* 标题颜色 */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1); /* 半透明页脚背景 */
+}
